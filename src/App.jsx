@@ -8,7 +8,7 @@ function Component1() {
 
   return (
     <UserContext.Provider value={user}>
-        <h1>Rea</h1>
+        <h1>Reac</h1>
       <h1>{`Hello ${user}!`}</h1>
       <Component2 />
     </UserContext.Provider>
